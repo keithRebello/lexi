@@ -1,0 +1,11 @@
+Model Information:
+* title:	Airpods Girl
+* source:	https://sketchfab.com/3d-models/airpods-girl-11942ed5b5c74c039dc7e132f214e07a
+* author:	nyancube (https://sketchfab.com/NG1506)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Airpods Girl" (https://sketchfab.com/3d-models/airpods-girl-11942ed5b5c74c039dc7e132f214e07a) by nyancube (https://sketchfab.com/NG1506) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
